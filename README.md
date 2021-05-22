@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Instagram Clone
 
 ## Welcome! 👋
 
@@ -29,21 +29,21 @@ This is an Instagram clone project.
 
 ### Screenshot
 
-![Desktop preview of Instagram clone signin screen](../screenshots/1SignIn.png)
+![Desktop preview of Instagram clone signin screen](./screenshots/1SignIn.png)
 
-![Desktop preview of Instagram clone signup screen](../screenshots/2SignUp.png)
+![Desktop preview of Instagram clone signup screen](./screenshots/2SignUp.png)
 
-![Desktop preview of Instagram clone home screen](../screenshots/3Home.png)
+![Desktop preview of Instagram clone home screen](./screenshots/3Home.png)
 
-![Desktop preview of Instagram clone profile screen](../screenshots/4Profile.png)
+![Desktop preview of Instagram clone profile screen](./screenshots/4Profile.png)
 
-![Desktop preview of Instagram clone create post screen](../screenshots/5CreatePost.png)
+![Desktop preview of Instagram clone create post screen](./screenshots/5CreatePost.png)
 
-![Desktop preview of Instagram clone my following post screen](../screenshots/7MyFollowingPost.png)
+![Desktop preview of Instagram clone my following post screen](./screenshots/7MyFollowingPost.png)
 
-![Desktop preview of Instagram clone before clicking search user](../screenshots/8.1SearchUser.png)
+![Desktop preview of Instagram clone before clicking search user](./screenshots/8.1SearchUser.png)
 
-![Desktop preview of Instagram clone after clicking search user](../screenshots/8.2AfterClickingOnUser.png)
+![Desktop preview of Instagram clone after clicking search user](./screenshots/8.2AfterClickingOnUser.png)
 
 ## My process
 
